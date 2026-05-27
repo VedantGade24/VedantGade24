@@ -13,6 +13,8 @@
 🔌  Currently exploring MCP (Model Context Protocol) & AI integrations
 🌱  Strong foundation in Data Structures, Algorithms & OOP
 💡  I like building things that connect AI to the real world
+🔨  Currently building: AI-powered developer tools with MCP
+📖  Learning: System Design & Advanced JavaScript
 📍  India
 ```
 
@@ -22,7 +24,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔌 GitHub MCP Server](https://github.com/VedantGade24/GITHUB-MCP-SERVER) | MCP server connecting Claude AI to GitHub | Node.js · MCP · GitHub API |
+| [🔌 GitHub MCP Server](https://github.com/VedantGade24/GITHUB-MCP-SERVER) | MCP server that connects Claude AI directly to GitHub — enabling AI-driven repo management | Node.js · MCP · GitHub API |
 | [🛒 Smart Grocery System](https://github.com/VedantGade24/DSA_MiniProject) | Console grocery manager using Queue, Stack, BST, Priority Queue | C · DSA · File I/O |
 | [📚 OOP Assignments](https://github.com/VedantGade24/OOPD_Assignments) | Semester-long OOP & design patterns coursework | OOP · Design Patterns |
 
@@ -38,6 +40,25 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantGade24&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGade24&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGade24&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+
+---
 
 <div align="center">
 
