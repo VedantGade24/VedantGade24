@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=200&section=header&text=Vedant%20Gade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20CS%20Student%20%7C%20AI%20Tooling&descAlignY=58&descColor=a0c4ff" />
+# Hi there, I'm Vedant Gade 👋
+
+### Developer · CS Student · AI Tooling Enthusiast
+
+[![GitHub followers](https://img.shields.io/github/followers/VedantGade24?style=flat-square&logo=github&label=Follow)](https://github.com/VedantGade24)
+[![Profile Views](https://komarev.com/ghpvc/?username=VedantGade24&style=flat-square&color=0f3460)](https://github.com/VedantGade24)
 
 </div>
 
@@ -10,7 +15,7 @@
 
 ```text
 🎓  CS Student with a passion for building real tools
-🔌  Currently exploring MCP (Model Context Protocol) & AI integrations
+🔌  Exploring MCP (Model Context Protocol) & AI integrations
 🌱  Strong foundation in Data Structures, Algorithms & OOP
 💡  I like building things that connect AI to the real world
 📍  India
@@ -35,6 +40,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat-square)
+![DSA](https://img.shields.io/badge/Data_Structures-Algorithms-0f3460?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-Design_Patterns-e94560?style=flat-square)
 
 ---
 
@@ -42,10 +49,17 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VedantGade24&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGade24&layout=compact&theme=tokyonight&hide_border=true" />
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantGade24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGade24&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+### 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-VedantGade24-181717?style=flat-square&logo=github)](https://github.com/VedantGade24)
 
 ---
 
