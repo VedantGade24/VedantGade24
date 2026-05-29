@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=220&section=header&text=Vedant%20Gade&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20MCP%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descColor=a0c4ff" />
+```
+██╗   ██╗███████╗██████╗  █████╗ ███╗   ██╗████████╗     ██████╗  █████╗ ██████╗ ███████╗
+██║   ██║██╔════╝██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝    ██╔════╝ ██╔══██╗██╔══██╗██╔════╝
+██║   ██║█████╗  ██║  ██║███████║██╔██╗ ██║   ██║       ██║  ███╗███████║██║  ██║█████╗  
+╚██╗ ██╔╝██╔══╝  ██║  ██║██╔══██║██║╚██╗██║   ██║       ██║   ██║██╔══██║██║  ██║██╔══╝  
+ ╚████╔╝ ███████╗██████╔╝██║  ██║██║ ╚████║   ██║       ╚██████╔╝██║  ██║██████╔╝███████╗
+  ╚═══╝  ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝        ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝
+```
+
+### CS Student · AI & MCP Builder · Problem Solver
 
 </div>
 
@@ -89,12 +98,12 @@ interests  : DSA · OOP · Open Source · Developer Productivity
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantGade24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGade24&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGade24&theme=github-dark-blue&hide_border=true" height="165"/>
+![Repos](https://img.shields.io/badge/Public%20Repos-6-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-Growing-3fb950?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-3%20days-f78166?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Top%20Lang-C%20%7C%20C%2B%2B%20%7C%20JS-D97757?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -113,7 +122,7 @@ interests  : DSA · OOP · Open Source · Developer Productivity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer" />
+---
 
 *"First, solve the problem. Then, write the code."*
 
