@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vedant%20Gade&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20AI%20%26%20MCP%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descColor=c9d1d9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=220&section=header&text=Vedant%20Gade&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20MCP%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descColor=a0c4ff" />
 
 </div>
 
@@ -113,7 +113,7 @@ interests  : DSA · OOP · Open Source · Developer Productivity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer" />
 
 *"First, solve the problem. Then, write the code."*
 
